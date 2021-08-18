@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h1 align='center'> Hi there 👋, I'm Nuri  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Nuri "Claire" 👩‍💻 </h1>
 
 <p align='center'>
 🇰🇷 🇺🇸

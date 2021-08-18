@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Nuri%20\"Claire\"%20Bang&fontSize=90)
+<p align='center'>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Nuri%20Claire%20Bang&fontSize=90" />
+</a>
+</p>
 
 <h1 align='center'> Hi there 👋, I'm Nuri  👩‍💻 </h1>
 

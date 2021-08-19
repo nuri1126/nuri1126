@@ -1,11 +1,10 @@
-<p align='center'>
+<!-- <p align='center'>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Nuri%20Claire%20Bang&fontSize=90" />
 </a>
-</p>
+</p> -->
 
 <h1 align='center'> Hi there 👋, I'm Nuri "Claire" 👩‍💻 </h1>
-
 <p align='center'>
 🇰🇷 🇺🇸
 </p>
@@ -13,7 +12,10 @@
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=nuri1126.nuri1126??style=for-the-badge&logo=appveyor"></a>
 </p>
-
+<hr>
+<p align='center'>
+I'm currently looking for an Internship or Full-time opportunity as a software engineer / data engineer / ML engineer!
+</p>
 <hr>
 
 <h4 align='center'> 📫 How to reach me ...</h4>
